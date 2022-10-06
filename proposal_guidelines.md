@@ -1,6 +1,4 @@
-# CST-3990
-
-Marking Criteria for the First Coursework — The Proposal
+# CST-3990 : Marking Criteria for the First Coursework — The Proposal
 
 1. Is the project proposal at a suitable level for an Undergraduate final-year student who 
 is to commit about 300 hours to it? (30 points)
